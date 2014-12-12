@@ -1,7 +1,7 @@
 {
   "name"      : "フシギソウ",
   "type"      : ["くさ","どく"],
-  "baseStats" : [
+  "baseStatus" : [
     60,
     62,
     63,

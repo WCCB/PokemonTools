@@ -1,7 +1,7 @@
 {
   "name"      : "カモネギ",
   "type"      : ["ノーマル","ひこう"],
-  "baseStats" : [
+  "baseStatus" : [
     52,
     65,
     55,

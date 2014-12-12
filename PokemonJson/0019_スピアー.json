@@ -1,7 +1,7 @@
 {
   "name"      : "スピアー",
   "type"      : ["むし","どく"],
-  "baseStats" : [
+  "baseStatus" : [
     65,
     90,
     40,

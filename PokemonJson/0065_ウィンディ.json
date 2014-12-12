@@ -1,7 +1,7 @@
 {
   "name"      : "ウィンディ",
   "type"      : ["ほのお","なし"],
-  "baseStats" : [
+  "baseStatus" : [
     90,
     110,
     80,

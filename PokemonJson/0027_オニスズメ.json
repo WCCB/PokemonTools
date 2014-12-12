@@ -1,7 +1,7 @@
 {
   "name"      : "オニスズメ",
   "type"      : ["ノーマル","ひこう"],
-  "baseStats" : [
+  "baseStatus" : [
     40,
     60,
     30,

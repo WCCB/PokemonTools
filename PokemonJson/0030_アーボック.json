@@ -1,7 +1,7 @@
 {
   "name"      : "アーボック",
   "type"      : ["どく","なし"],
-  "baseStats" : [
+  "baseStatus" : [
     60,
     85,
     69,

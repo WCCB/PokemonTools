@@ -1,7 +1,7 @@
 {
   "name"      : "ゴース",
   "type"      : ["ゴースト","どく"],
-  "baseStats" : [
+  "baseStatus" : [
     30,
     35,
     30,

@@ -1,7 +1,7 @@
 {
   "name"      : "ウツボット",
   "type"      : ["くさ","どく"],
-  "baseStats" : [
+  "baseStatus" : [
     80,
     105,
     65,

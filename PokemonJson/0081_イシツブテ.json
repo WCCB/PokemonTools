@@ -1,7 +1,7 @@
 {
   "name"      : "イシツブテ",
   "type"      : ["いわ","じめん"],
-  "baseStats" : [
+  "baseStatus" : [
     40,
     80,
     100,

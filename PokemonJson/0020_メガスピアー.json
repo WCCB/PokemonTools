@@ -1,7 +1,7 @@
 {
   "name"      : "メガスピアー",
   "type"      : ["むし","どく"],
-  "baseStats" : [
+  "baseStatus" : [
     65,
     150,
     40,

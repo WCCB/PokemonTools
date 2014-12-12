@@ -1,7 +1,7 @@
 {
   "name"      : "フシギダネ",
   "type"      : ["くさ","どく"],
-  "baseStats" : [
+  "baseStatus" : [
     45,
     49,
     49,

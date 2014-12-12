@@ -1,7 +1,7 @@
 {
   "name"      : "タマタマ",
   "type"      : ["くさ","エスパー"],
-  "baseStats" : [
+  "baseStatus" : [
     60,
     40,
     80,

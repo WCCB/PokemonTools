@@ -1,7 +1,7 @@
 {
   "name"      : "ニャース",
   "type"      : ["ノーマル","なし"],
-  "baseStats" : [
+  "baseStatus" : [
     40,
     45,
     35,

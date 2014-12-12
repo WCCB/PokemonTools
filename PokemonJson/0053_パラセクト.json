@@ -1,7 +1,7 @@
 {
   "name"      : "パラセクト",
   "type"      : ["むし","くさ"],
-  "baseStats" : [
+  "baseStatus" : [
     60,
     95,
     80,

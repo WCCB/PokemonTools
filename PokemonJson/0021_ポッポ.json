@@ -1,7 +1,7 @@
 {
   "name"      : "ポッポ",
   "type"      : ["ノーマル","ひこう"],
-  "baseStats" : [
+  "baseStatus" : [
     40,
     45,
     40,

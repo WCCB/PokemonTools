@@ -1,7 +1,7 @@
 {
   "name"      : "ニドキング",
   "type"      : ["どく","じめん"],
-  "baseStats" : [
+  "baseStatus" : [
     81,
     102,
     77,

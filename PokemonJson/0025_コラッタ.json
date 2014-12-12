@@ -1,7 +1,7 @@
 {
   "name"      : "コラッタ",
   "type"      : ["ノーマル","なし"],
-  "baseStats" : [
+  "baseStatus" : [
     30,
     56,
     35,

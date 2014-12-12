@@ -1,7 +1,7 @@
 {
   "name"      : "ベトベター",
   "type"      : ["どく","なし"],
-  "baseStats" : [
+  "baseStatus" : [
     80,
     80,
     50,

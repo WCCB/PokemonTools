@@ -1,7 +1,7 @@
 {
   "name"      : "ケーシィ",
   "type"      : ["エスパー","なし"],
-  "baseStats" : [
+  "baseStatus" : [
     25,
     20,
     15,

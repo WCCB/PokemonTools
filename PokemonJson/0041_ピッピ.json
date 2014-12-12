@@ -1,7 +1,7 @@
 {
   "name"      : "ピッピ",
   "type"      : ["フェアリー","なし"],
-  "baseStats" : [
+  "baseStatus" : [
     70,
     45,
     48,

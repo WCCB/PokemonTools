@@ -1,7 +1,7 @@
 {
   "name"      : "ラッタ",
   "type"      : ["ノーマル","なし"],
-  "baseStats" : [
+  "baseStatus" : [
     55,
     81,
     60,

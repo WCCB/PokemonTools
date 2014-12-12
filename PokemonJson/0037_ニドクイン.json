@@ -1,7 +1,7 @@
 {
   "name"      : "ニドクイン",
   "type"      : ["どく","じめん"],
-  "baseStats" : [
+  "baseStatus" : [
     90,
     92,
     87,

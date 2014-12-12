@@ -1,7 +1,7 @@
 {
   "name"      : "コダック",
   "type"      : ["みず","なし"],
-  "baseStats" : [
+  "baseStatus" : [
     50,
     52,
     48,

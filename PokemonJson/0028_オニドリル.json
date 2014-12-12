@@ -1,7 +1,7 @@
 {
   "name"      : "オニドリル",
   "type"      : ["ノーマル","ひこう"],
-  "baseStats" : [
+  "baseStatus" : [
     65,
     90,
     65,

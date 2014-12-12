@@ -1,7 +1,7 @@
 {
   "name"      : "ポニータ",
   "type"      : ["ほのお","なし"],
-  "baseStats" : [
+  "baseStatus" : [
     50,
     85,
     55,

@@ -1,7 +1,7 @@
 {
   "name"      : "フーディン",
   "type"      : ["エスパー","なし"],
-  "baseStats" : [
+  "baseStatus" : [
     55,
     50,
     45,

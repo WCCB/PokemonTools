@@ -1,7 +1,7 @@
 {
   "name"      : "キャタピー",
   "type"      : ["むし","なし"],
-  "baseStats" : [
+  "baseStatus" : [
     45,
     30,
     35,

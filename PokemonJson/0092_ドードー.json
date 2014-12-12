@@ -1,7 +1,7 @@
 {
   "name"      : "ドードー",
   "type"      : ["ノーマル","ひこう"],
-  "baseStats" : [
+  "baseStatus" : [
     35,
     85,
     45,

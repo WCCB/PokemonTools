@@ -1,7 +1,7 @@
 {
   "name"      : "ヤドン",
   "type"      : ["みず","エスパー"],
-  "baseStats" : [
+  "baseStatus" : [
     90,
     65,
     65,

@@ -1,7 +1,7 @@
 {
   "name"      : "ピクシー",
   "type"      : ["フェアリー","なし"],
-  "baseStats" : [
+  "baseStatus" : [
     95,
     70,
     73,

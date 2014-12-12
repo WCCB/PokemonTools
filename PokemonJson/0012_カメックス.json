@@ -1,7 +1,7 @@
 {
   "name"      : "カメックス",
   "type"      : ["みず","なし"],
-  "baseStats" : [
+  "baseStatus" : [
     79,
     83,
     100,

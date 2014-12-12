@@ -1,7 +1,7 @@
 {
   "name"      : "ピジョット",
   "type"      : ["ノーマル","ひこう"],
-  "baseStats" : [
+  "baseStatus" : [
     83,
     80,
     75,

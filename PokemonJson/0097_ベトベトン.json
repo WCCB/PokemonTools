@@ -1,7 +1,7 @@
 {
   "name"      : "ベトベトン",
   "type"      : ["どく","なし"],
-  "baseStats" : [
+  "baseStatus" : [
     105,
     105,
     75,

@@ -1,7 +1,7 @@
 {
   "name"      : "カイリキー",
   "type"      : ["かくとう","なし"],
-  "baseStats" : [
+  "baseStatus" : [
     90,
     130,
     80,

@@ -1,7 +1,7 @@
 {
   "name"      : "ユンゲラー",
   "type"      : ["エスパー","なし"],
-  "baseStats" : [
+  "baseStatus" : [
     40,
     35,
     30,

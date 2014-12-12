@@ -1,7 +1,7 @@
 {
   "name"      : "ニドリーナ",
   "type"      : ["どく","なし"],
-  "baseStats" : [
+  "baseStatus" : [
     70,
     62,
     67,
