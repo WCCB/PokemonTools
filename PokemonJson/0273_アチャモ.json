@@ -1,13 +1,11 @@
 {
   "name"      : "アチャモ",
   "type"      : ["ほのお","なし"],
-  "baseStatus" : [
-    45,
-    60,
-    40,
-    70,
-    50,
-    45
-  ],
+  "hp" : 45,
+  "attack" : 60,
+  "defence" : 40,
+  "s_attack" : 70,
+  "s_defence" : 50,
+  "speed" : 45,
   "ability"   : ["もうか","なし","かそく"]
 }

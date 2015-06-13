@@ -1,12 +1,10 @@
 {
   "name"      : "‚¨‚¾‚â‚©",
-  "statusRevision" : [
-    1,
-    0.9,
-    1,
-    1,
-    1.1,
-    1
-  ]
+  "hp" : 1,
+  "attack" : 0.9,
+  "defense" : 1,
+  "s_Attack" : 1,
+  "s_Defense" : 1.1,
+  "speed" : 1
 }
 

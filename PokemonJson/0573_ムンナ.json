@@ -1,0 +1,11 @@
+{
+  "name"      : "ムンナ",
+  "type"      : ["エスパー","なし"],
+  "hp" : 76,
+  "attack" : 25,
+  "defence" : 45,
+  "s_attack" : 67,
+  "s_defence" : 55,
+  "speed" : 24,
+  "ability"   : ["よちむ","シンクロ","テレパシー"]
+}

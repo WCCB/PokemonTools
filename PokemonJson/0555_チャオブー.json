@@ -1,0 +1,11 @@
+{
+  "name"      : "チャオブー",
+  "type"      : ["ほのお","なし"],
+  "hp" : 90,
+  "attack" : 93,
+  "defence" : 55,
+  "s_attack" : 70,
+  "s_defence" : 55,
+  "speed" : 55,
+  "ability"   : ["もうか","なし","あついしぼう"]
+}

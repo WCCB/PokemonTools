@@ -1,13 +1,11 @@
 {
   "name"      : "キバニア",
   "type"      : ["みず","あく"],
-  "baseStatus" : [
-    45,
-    90,
-    20,
-    65,
-    20,
-    65
-  ],
+  "hp" : 45,
+  "attack" : 90,
+  "defence" : 20,
+  "s_attack" : 65,
+  "s_defence" : 20,
+  "speed" : 65,
   "ability"   : ["さめはだ","なし","かそく"]
 }

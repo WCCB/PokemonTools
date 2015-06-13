@@ -1,329 +1,278 @@
-{
- [
-"‚³‚Ý‚µ‚ª‚è":{
+[
+ {
   "name"      : "‚³‚Ý‚µ‚ª‚è",
-  "statusRevision" : [
-    1,
-    1.1,
-    0.9,
-    1,
-    1,
-    1
-  ]
+  "hp" : 1,
+  "attack" : 1.1,
+  "defense" : 0.9,
+  "s_Attack" : 1,
+  "s_Defense" : 1,
+  "speed" : 1
 }
 
 ,
-"‚¢‚¶‚Á‚Ï‚è":{
+{
   "name"      : "‚¢‚¶‚Á‚Ï‚è",
-  "statusRevision" : [
-    1,
-    1.1,
-    1,
-    0.9,
-    1,
-    1
-  ]
+  "hp" : 1,
+  "attack" : 1.1,
+  "defense" : 1,
+  "s_Attack" : 0.9,
+  "s_Defense" : 1,
+  "speed" : 1
 }
 
 ,
-"‚â‚ñ‚¿‚á":{
+{
   "name"      : "‚â‚ñ‚¿‚á",
-  "statusRevision" : [
-    1,
-    1.1,
-    1,
-    1,
-    0.9,
-    1
-  ]
+  "hp" : 1,
+  "attack" : 1.1,
+  "defense" : 1,
+  "s_Attack" : 1,
+  "s_Defense" : 0.9,
+  "speed" : 1
 }
 
 ,
-"‚ä‚¤‚©‚ñ":{
+{
   "name"      : "‚ä‚¤‚©‚ñ",
-  "statusRevision" : [
-    1,
-    1.1,
-    1,
-    1,
-    1,
-    0.9
-  ]
+  "hp" : 1,
+  "attack" : 1.1,
+  "defense" : 1,
+  "s_Attack" : 1,
+  "s_Defense" : 1,
+  "speed" : 0.9
 }
 
 ,
-"‚¸‚Ô‚Æ‚¢":{
+{
   "name"      : "‚¸‚Ô‚Æ‚¢",
-  "statusRevision" : [
-    1,
-    0.9,
-    1.1,
-    1,
-    1,
-    1
-  ]
+  "hp" : 1,
+  "attack" : 0.9,
+  "defense" : 1.1,
+  "s_Attack" : 1,
+  "s_Defense" : 1,
+  "speed" : 1
 }
 
 ,
-"‚í‚ñ‚Ï‚­":{
+{
   "name"      : "‚í‚ñ‚Ï‚­",
-  "statusRevision" : [
-    1,
-    1,
-    1.1,
-    0.9,
-    1,
-    1
-  ]
+  "hp" : 1,
+  "attack" : 1,
+  "defense" : 1.1,
+  "s_Attack" : 0.9,
+  "s_Defense" : 1,
+  "speed" : 1
 }
 
 ,
-"‚Ì‚¤‚Ä‚ñ‚«":{
+{
   "name"      : "‚Ì‚¤‚Ä‚ñ‚«",
-  "statusRevision" : [
-    1,
-    1,
-    1.1,
-    1,
-    0.9,
-    1
-  ]
+  "hp" : 1,
+  "attack" : 1,
+  "defense" : 1.1,
+  "s_Attack" : 1,
+  "s_Defense" : 0.9,
+  "speed" : 1
 }
 
 ,
-"‚Ì‚ñ‚«":{
+{
   "name"      : "‚Ì‚ñ‚«",
-  "statusRevision" : [
-    1,
-    1,
-    1.1,
-    1,
-    1,
-    0.9
-  ]
+  "hp" : 1,
+  "attack" : 1,
+  "defense" : 1.1,
+  "s_Attack" : 1,
+  "s_Defense" : 1,
+  "speed" : 0.9
 }
 
 ,
-"‚Ð‚©‚¦‚ß":{
+{
   "name"      : "‚Ð‚©‚¦‚ß",
-  "statusRevision" : [
-    1,
-    0.9,
-    1,
-    1.1,
-    1,
-    1
-  ]
+  "hp" : 1,
+  "attack" : 0.9,
+  "defense" : 1,
+  "s_Attack" : 1.1,
+  "s_Defense" : 1,
+  "speed" : 1
 }
 
 ,
-"‚¨‚Á‚Æ‚è":{
+{
   "name"      : "‚¨‚Á‚Æ‚è",
-  "statusRevision" : [
-    1,
-    1,
-    0.9,
-    1.1,
-    1,
-    1
-  ]
+  "hp" : 1,
+  "attack" : 1,
+  "defense" : 0.9,
+  "s_Attack" : 1.1,
+  "s_Defense" : 1,
+  "speed" : 1
 }
 
 ,
-"‚¤‚Á‚©‚è‚â":{
+{
   "name"      : "‚¤‚Á‚©‚è‚â",
-  "statusRevision" : [
-    1,
-    1,
-    1,
-    1.1,
-    0.9,
-    1
-  ]
+  "hp" : 1,
+  "attack" : 1,
+  "defense" : 1,
+  "s_Attack" : 1.1,
+  "s_Defense" : 0.9,
+  "speed" : 1
 }
 
 ,
-"‚ê‚¢‚¹‚¢":{
+{
   "name"      : "‚ê‚¢‚¹‚¢",
-  "statusRevision" : [
-    1,
-    1,
-    1,
-    1.1,
-    1,
-    0.9
-  ]
+  "hp" : 1,
+  "attack" : 1,
+  "defense" : 1,
+  "s_Attack" : 1.1,
+  "s_Defense" : 1,
+  "speed" : 0.9
 }
 
 ,
-"‚¨‚¾‚â‚©":{
+{
   "name"      : "‚¨‚¾‚â‚©",
-  "statusRevision" : [
-    1,
-    0.9,
-    1,
-    1,
-    1.1,
-    1
-  ]
+  "hp" : 1,
+  "attack" : 0.9,
+  "defense" : 1,
+  "s_Attack" : 1,
+  "s_Defense" : 1.1,
+  "speed" : 1
 }
 
 ,
-"‚¨‚Æ‚È‚µ‚¢":{
+{
   "name"      : "‚¨‚Æ‚È‚µ‚¢",
-  "statusRevision" : [
-    1,
-    1,
-    0.9,
-    1,
-    1.1,
-    1
-  ]
+  "hp" : 1,
+  "attack" : 1,
+  "defense" : 0.9,
+  "s_Attack" : 1,
+  "s_Defense" : 1.1,
+  "speed" : 1
 }
 
 ,
-"‚µ‚ñ‚¿‚å‚¤":{
+{
   "name"      : "‚µ‚ñ‚¿‚å‚¤",
-  "statusRevision" : [
-    1,
-    1,
-    1,
-    0.9,
-    1.1,
-    1
-  ]
+  "hp" : 1,
+  "attack" : 1,
+  "defense" : 1,
+  "s_Attack" : 0.9,
+  "s_Defense" : 1.1,
+  "speed" : 1
 }
 
 ,
-"‚È‚Ü‚¢‚«":{
+{
   "name"      : "‚È‚Ü‚¢‚«",
-  "statusRevision" : [
-    1,
-    1,
-    1,
-    1,
-    1.1,
-    0.9
-  ]
+  "hp" : 1,
+  "attack" : 1,
+  "defense" : 1,
+  "s_Attack" : 1,
+  "s_Defense" : 1.1,
+  "speed" : 0.9
 }
 
 ,
-"‚¨‚­‚Ñ‚å‚¤":{
+{
   "name"      : "‚¨‚­‚Ñ‚å‚¤",
-  "statusRevision" : [
-    1,
-    0.9,
-    1,
-    1,
-    1,
-    1.1
-  ]
+  "hp" : 1,
+  "attack" : 0.9,
+  "defense" : 1,
+  "s_Attack" : 1,
+  "s_Defense" : 1,
+  "speed" : 1.1
 }
 
 ,
-"‚¹‚Á‚©‚¿":{
+{
   "name"      : "‚¹‚Á‚©‚¿",
-  "statusRevision" : [
-    1,
-    1,
-    0.9,
-    1,
-    1,
-    1.1
-  ]
+  "hp" : 1,
+  "attack" : 1,
+  "defense" : 0.9,
+  "s_Attack" : 1,
+  "s_Defense" : 1,
+  "speed" : 1.1
 }
 
 ,
-"‚æ‚¤‚«":{
+{
   "name"      : "‚æ‚¤‚«",
-  "statusRevision" : [
-    1,
-    1,
-    1,
-    0.9,
-    1,
-    1.1
-  ]
+  "hp" : 1,
+  "attack" : 1,
+  "defense" : 1,
+  "s_Attack" : 0.9,
+  "s_Defense" : 1,
+  "speed" : 1.1
 }
 
 ,
-"‚Þ‚¶‚á‚«":{
+{
   "name"      : "‚Þ‚¶‚á‚«",
-  "statusRevision" : [
-    1,
-    1,
-    1,
-    1,
-    0.9,
-    1.1
-  ]
+  "hp" : 1,
+  "attack" : 1,
+  "defense" : 1,
+  "s_Attack" : 1,
+  "s_Defense" : 0.9,
+  "speed" : 1.1
 }
 
 ,
-"‚Ä‚ê‚â":{
+{
   "name"      : "‚Ä‚ê‚â",
-  "statusRevision" : [
-    1,
-    1,
-    1,
-    1,
-    1,
-    1
-  ]
+  "hp" : 1,
+  "attack" : 1,
+  "defense" : 1,
+  "s_Attack" : 1,
+  "s_Defense" : 1,
+  "speed" : 1
 }
 
 ,
-"‚ª‚ñ‚Î‚è‚â":{
+{
   "name"      : "‚ª‚ñ‚Î‚è‚â",
-  "statusRevision" : [
-    1,
-    1,
-    1,
-    1,
-    1,
-    1
-  ]
+  "hp" : 1,
+  "attack" : 1,
+  "defense" : 1,
+  "s_Attack" : 1,
+  "s_Defense" : 1,
+  "speed" : 1
 }
 
 ,
-"‚·‚È‚¨":{
+{
   "name"      : "‚·‚È‚¨",
-  "statusRevision" : [
-    1,
-    1,
-    1,
-    1,
-    1,
-    1
-  ]
+  "hp" : 1,
+  "attack" : 1,
+  "defense" : 1,
+  "s_Attack" : 1,
+  "s_Defense" : 1,
+  "speed" : 1
 }
 
 ,
-"‚«‚Ü‚®‚ê":{
+{
   "name"      : "‚«‚Ü‚®‚ê",
-  "statusRevision" : [
-    1,
-    1,
-    1,
-    1,
-    1,
-    1
-  ]
+  "hp" : 1,
+  "attack" : 1,
+  "defense" : 1,
+  "s_Attack" : 1,
+  "s_Defense" : 1,
+  "speed" : 1
 }
 
 ,
-"‚Ü‚¶‚ß":{
+{
   "name"      : "‚Ü‚¶‚ß",
-  "statusRevision" : [
-    1,
-    1,
-    1,
-    1,
-    1,
-    1
-  ]
+  "hp" : 1,
+  "attack" : 1,
+  "defense" : 1,
+  "s_Attack" : 1,
+  "s_Defense" : 1,
+  "speed" : 1
 }
 
 
 
-}
+]

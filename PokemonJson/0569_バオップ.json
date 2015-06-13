@@ -1,0 +1,11 @@
+{
+  "name"      : "バオップ",
+  "type"      : ["ほのお","なし"],
+  "hp" : 50,
+  "attack" : 53,
+  "defence" : 48,
+  "s_attack" : 53,
+  "s_defence" : 48,
+  "speed" : 64,
+  "ability"   : ["くいしんぼう","なし","もうか"]
+}

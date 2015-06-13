@@ -1,13 +1,11 @@
 {
   "name"      : "ロトム",
   "type"      : ["でんき","なし"],
-  "baseStatus" : [
-    50,
-    50,
-    77,
-    95,
-    77,
-    91
-  ],
+  "hp" : 50,
+  "attack" : 50,
+  "defence" : 77,
+  "s_attack" : 95,
+  "s_defence" : 77,
+  "speed" : 91,
   "ability"   : ["ふゆう","なし","なし"]
 }

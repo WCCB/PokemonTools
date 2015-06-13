@@ -1,13 +1,11 @@
 {
   "name"      : "トランセル",
   "type"      : ["むし","なし"],
-  "baseStatus" : [
-    50,
-    20,
-    55,
-    25,
-    25,
-    30
-  ],
+  "hp" : 50,
+  "attack" : 20,
+  "defence" : 55,
+  "s_attack" : 25,
+  "s_defence" : 25,
+  "speed" : 30,
   "ability"   : ["だっぴ","なし","なし"]
 }

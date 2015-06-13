@@ -1,13 +1,11 @@
 {
   "name"      : "マユルド",
   "type"      : ["むし","なし"],
-  "baseStatus" : [
-    50,
-    35,
-    55,
-    25,
-    25,
-    15
-  ],
+  "hp" : 50,
+  "attack" : 35,
+  "defence" : 55,
+  "s_attack" : 25,
+  "s_defence" : 25,
+  "speed" : 15,
   "ability"   : ["だっぴ","なし","なし"]
 }

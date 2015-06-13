@@ -1,0 +1,59 @@
+[
+ {
+  "name"      : てすと,
+  "category"      : 物理,
+  "type"      : ノーマル,
+  "power" : 123,
+  "special" : 有り
+}
+,
+{
+  "name"      : てすと１,
+  "category"      : 物理,
+  "type"      : ノーマル,
+  "power" : 123,
+  "special" : 有り
+}
+,
+{
+  "name"      : てすと２,
+  "category"      : 物理,
+  "type"      : ノーマル,
+  "power" : 124,
+  "special" : 有り
+}
+,
+{
+  "name"      : てすと３,
+  "category"      : 物理,
+  "type"      : ノーマル,
+  "power" : 125,
+  "special" : 有り
+}
+,
+{
+  "name"      : てすと４,
+  "category"      : 物理,
+  "type"      : ノーマル,
+  "power" : 126,
+  "special" : 有り
+}
+,
+{
+  "name"      : てすと５,
+  "category"      : 物理,
+  "type"      : ノーマル,
+  "power" : 127,
+  "special" : 有り
+}
+,
+{
+  "name"      : てすと６,
+  "category"      : 物理,
+  "type"      : ノーマル,
+  "power" : 128,
+  "special" : 有り
+}
+
+
+]

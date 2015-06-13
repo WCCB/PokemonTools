@@ -1,13 +1,11 @@
 {
   "name"      : "ロコン",
   "type"      : ["ほのお","なし"],
-  "baseStatus" : [
-    38,
-    41,
-    40,
-    50,
-    65,
-    65
-  ],
+  "hp" : 38,
+  "attack" : 41,
+  "defence" : 40,
+  "s_attack" : 50,
+  "s_defence" : 65,
+  "speed" : 65,
   "ability"   : ["もらいび","なし","ひでり"]
 }

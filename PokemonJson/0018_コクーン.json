@@ -1,13 +1,11 @@
 {
   "name"      : "コクーン",
   "type"      : ["むし","どく"],
-  "baseStatus" : [
-    45,
-    25,
-    50,
-    25,
-    25,
-    35
-  ],
+  "hp" : 45,
+  "attack" : 25,
+  "defence" : 50,
+  "s_attack" : 25,
+  "s_defence" : 25,
+  "speed" : 35,
   "ability"   : ["だっぴ","なし","なし"]
 }
